@@ -93,13 +93,4 @@ Accuracy: 0.9668
    ```
 3. Run the notebook: `spam_classifier.ipynb`
 
----
-
-## 📜 License
-
-This project is open-source under the **MIT License** — free to use and modify.
-
----
-
-Made with ❤️ by Ashu
 
